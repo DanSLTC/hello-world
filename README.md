@@ -1,2 +1,3 @@
 # hello-world
 First-time caller...
+I wanted to learn C# so downloaded VS, now find myself setting up a version control app, I think?
